@@ -35,7 +35,7 @@ This project demonstrates skills in data visualization, business analysis, and d
 - reports/ → Power BI file and PDF export
 - images/ → Dashboard previews
 
-- ## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ![Executive Overview](images/overview_dashboard.jpg)
 ![Billing Analysis](images/billing_analysis.jpg)
