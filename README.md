@@ -24,7 +24,7 @@ This project showcases a multi-page Power BI dashboard built to analyze revenue 
 
 ## 📸 Dashboard Preview
 
-[Dashboard]<img width="1755" height="1241" alt="Overview" src="https://github.com/user-attachments/assets/219e4d0f-771a-4faa-9431-c11fd1247692" />
+![Dashboard]<img width="1755" height="1241" alt="Overview" src="https://github.com/user-attachments/assets/219e4d0f-771a-4faa-9431-c11fd1247692" />
 
 
 ## 🚀 Outcome
@@ -37,8 +37,8 @@ This project demonstrates skills in data visualization, business analysis, and d
 
 - ## 📸 Dashboard Preview
 
-![Executive Overview](images/overview_dashboard.png)
-![Billing Analysis](images/billing_analysis.png)
-![Contract Analysis](images/contract_analysis.png)
-![Customer Insights](images/customer_insights.png)
-![Revenue Forecast](images/revenue_forecast.png)
+![Executive Overview](images/overview_dashboard.jpg)
+![Billing Analysis](images/billing_analysis.jpg)
+![Contract Analysis](images/contract_analysis.jpg)
+![Customer Insights](images/customer_insights.jpg)
+![Revenue Forecast](images/revenue_forecast.jpg)
