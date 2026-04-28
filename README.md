@@ -29,3 +29,8 @@ This project showcases a multi-page Power BI dashboard built to analyze revenue 
 
 ## 🚀 Outcome
 This project demonstrates skills in data visualization, business analysis, and dashboard design.
+
+## 📂 Project Structure
+- data/ → Raw dataset
+- reports/ → Power BI file and PDF export
+- images/ → Dashboard previews
